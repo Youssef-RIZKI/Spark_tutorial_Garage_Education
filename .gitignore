@@ -1,0 +1,11 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Spark output and temp files
+data/output2/
+*.parquet
+*.crc
+
+# Ignore Python cache
+__pycache__/
+*.pyc
